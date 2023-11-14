@@ -1,0 +1,19 @@
+h1 {
+    color: black;
+    background-color: yellow;
+    text-align: center;
+    font-family: 'Star Wars', sans-serif;                                      
+}
+    .destacados{
+        color: purple;   
+        font-size: 22px;                                   
+    }
+
+    #caja{
+        background-color: orange;
+         width: 300px;
+         padding: 10px;
+         border: 10px;
+         box-sizing: border-box;
+         border-right: 5px dashed;
+          }
